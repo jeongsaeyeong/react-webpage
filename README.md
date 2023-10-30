@@ -1,9 +1,11 @@
 # 리액트를 이용한 웹 사이트 만들기
 리액트 사이트를 만듭니다.
-
 리액트(React)는 JavaScript 라이브러리로, 사용자 인터페이스를 만들고 관리하는 데 사용됩니다. 
 주요 개념은 가상 DOM을 통해 효율적인 UI 업데이트를 제공하며 컴포넌트 기반 아키텍처로 코드 재사용과 모듈성을 강조합니다. 
 데이터와 UI 사이의 일관성을 유지하며 웹 애플리케이션을 개발하는 데 도움을 줍니다.
+
+## 미리보기
+https://webpage-reactttt.netlify.app/
 
 ## 설치
 npx create-react-app react-webpage
@@ -17,3 +19,8 @@ npx create-react-app react-webpage
 - src (App.js, index,js)
 - rafce : 기본문법 나오기 -> 확장 프로그램 ES7 설치
 - 리액트 시작 : npm start
+
+## 작업 내용
+1) webstoryboy youtube로 html과 css 작업을 완료
+2) react로 옮겨 작업
+3) 컴퍼넌트 및 props를 이용
